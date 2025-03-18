@@ -1,0 +1,10 @@
+ .board-row{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+ }
+
+ .Board-area{
+  margin:100px;
+  align-items: center;
+ }
